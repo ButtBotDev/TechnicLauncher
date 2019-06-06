@@ -1,25 +1,25 @@
-Technic Launcher
+Butt Launcher
 ===================
 
-## What is The Technic Launcher?
-The Technic Launcher is a Minecraft launcher designed to install and manage modpacks from the [Technic Platform][Homepage].
+## What is The Butt Launcher?
+The Butt Launcher is a Minecraft launcher designed to install and manage modpacks from the [Butt Platform][Homepage].
 Features automatic updating, custom platform pack installation, and easy simple UI design.
 The launcher in its current form is maintained by [CanVox](https://github.com/CannibalVox)
 
-[![Technic][Logo]][Homepage]  
+[![Butt][Logo]][Homepage]  
 [Homepage] | [Forums] | [Twitter] | [Facebook] | [Steam]
 
 ## The License
-The Technic Launcher is licensed under the [GNU General Public License Version 3][License]. Please see the `LICENSE.txt` file for details.
+The Butt Launcher is licensed under the [GNU General Public License Version 3][License]. Please see the `LICENSE.txt` file for details.
 
-Copyright (c) 2013 Syndicate, LLC <<http://www.technicpack.net/>>
+Copyright (c) 2013 Syndicate, LLC <<http://www.Buttpack.net/>>
 
 ## Getting the Source
 The latest and greatest source can be found here on [GitHub][Source].  
-Download the latest builds from our [build server][Builds]. [![Build Status](http://build.technicpack.net/job/TechnicLauncher/badge/icon)](http://build.technicpack.net/job/TechnicLauncher/)
+Download the latest builds from our [build server][Builds]. [![Build Status](http://build.Buttpack.net/job/ButtLauncher/badge/icon)](http://build.Buttpack.net/job/ButtLauncher/)
 
 ## Compiling the Source
-Technic Launcher uses Maven to handle its dependencies.
+Butt Launcher uses Maven to handle its dependencies.
 
 * Install [Maven 3](http://maven.apache.org/download.html)
 * Checkout this repo and run: `mvn clean package`
@@ -43,12 +43,12 @@ Track and submit issues and bugs on our [GitHub issues page][Issues].
 **Please follow the above conventions if you want your pull request(s) accepted.**
 
 [Logo]: http://i.imgur.com/PCI0pIo.png
-[Homepage]: http://www.technicpack.net
-[Forums]: http://forums.technicpack.net
+[Homepage]: http://www.Buttpack.net
+[Forums]: http://forums.Buttpack.net
 [License]: http://www.gnu.org/licenses/gpl-3.0.txt
-[Source]: https://github.com/TechnicPack/TechnicLauncher
-[Builds]: http://build.technicpack.net/job/TechnicLauncher/
-[Issues]: https://github.com/TechnicPack/TechnicLauncher/issues
-[Twitter]: https://twitter.com/TechnicPack
-[Facebook]: https://www.facebook.com/TechnicPack
-[Steam]: http://steamcommunity.com/groups/technic-pack
+[Source]: https://github.com/ButtPack/ButtLauncher
+[Builds]: http://build.Buttpack.net/job/ButtLauncher/
+[Issues]: https://github.com/ButtPack/ButtLauncher/issues
+[Twitter]: https://twitter.com/ButtPack
+[Facebook]: https://www.facebook.com/ButtPack
+[Steam]: http://steamcommunity.com/groups/Butt-pack
